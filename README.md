@@ -1,3 +1,5 @@
+<p align="middle">첫주 과제는 완성하지 못하여 pr하지 않았습니다 얼른 따라잡도록 할게욥</p>
+
 <p align="middle" >
   <img width="200px;" src="./src/images/check_list.png"/>
 </p>
